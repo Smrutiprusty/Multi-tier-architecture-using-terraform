@@ -34,14 +34,14 @@ Before you get started, make sure you have the following prerequisites in place:
 # 📋 Table of Contents
 
 + [Features](https://github.com/Smrutiprusty/Multi-tier-architecture-using-terraform/edit/main/README.md#-features)
-+ [Web Tier]
-+ [Application Tier]
-+ [Database Tier]
-+ [Terraform Configuration]
-+ [Deployment]
-+ [Usage]
-+ [Contributing]
-+ [License]
++ [Web Tier](https://github.com/Smrutiprusty/Multi-tier-architecture-using-terraform/blob/main/README.md#-web-tier)
++ [Application Tier](https://github.com/Smrutiprusty/Multi-tier-architecture-using-terraform/blob/main/README.md#-application-tier)
++ [Database Tier](https://github.com/Smrutiprusty/Multi-tier-architecture-using-terraform/blob/main/README.md#-database-tier)
++ [Terraform Configuration](https://github.com/Smrutiprusty/Multi-tier-architecture-using-terraform/blob/main/README.md#-terraform-configuration)
++ [Deployment](https://github.com/Smrutiprusty/Multi-tier-architecture-using-terraform/blob/main/README.md#-deployment)
++ [Usage](https://github.com/Smrutiprusty/Multi-tier-architecture-using-terraform/blob/main/README.md#-usage)
++ [Contributing](https://github.com/Smrutiprusty/Multi-tier-architecture-using-terraform/blob/main/README.md#-contributing)
++ [License](https://github.com/Smrutiprusty/Multi-tier-architecture-using-terraform/blob/main/README.md#-license)
   
 # ✨ Features
 
