@@ -153,7 +153,7 @@ Configure the load balancer in the Web and Application Tiers to distribute traff
 Review and customize the security groups and network ACLs to meet your specific security requirements.
 
 # 🤝 Contributing
-Contributions are Welcome! Please read my Contributing Guidelines to get started with contributing to this project.
+Contributions are Welcome! Make a pull request or open an issue if you find any.
 
 # 📄 License
 
